@@ -744,3 +744,6 @@ Of course the first thing you might try is searching for videos about IPython (1
 
 ## Accessing and programing a IBM quantum computer via notebooks
 * [Github](https://github.com/Qiskit/qiskit-tutorial/blob/master/index.ipynb) notebook example (scroll down) illustrating how to use Qiskit and access the IBMQ quantum computers.
+
+##Reference
+* [A-gallery-of-interesting-Jupyter-Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks/_edit)
